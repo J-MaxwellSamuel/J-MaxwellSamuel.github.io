@@ -10,10 +10,9 @@
 
 ## Education
 
-**[Your Degree]** - [University Name]  
-*[Graduation Year]*
-- Relevant coursework or achievements
-- GPA (if notable)
+**Bachelors in Economics & Business Administration** - [University of Prince Edward Island] 
+*[May 2025]*
+*Main Focus on Research, Statistics & Operations Management*
 
 ## Work Experience
 
