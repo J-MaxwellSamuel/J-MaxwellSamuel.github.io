@@ -10,9 +10,10 @@
 
 ## Education
 
-**Bachelors in Economics & Business Administration** - [University of Prince Edward Island] 
-*May 2025*
-*Main Focus on Research, Statistics & Operations Management*
+**Bachelor of Economics & Business Administration**  
+University of Prince Edward Island | *May 2025*
+
+**Focus Areas:** Research, Statistics & Operations Management
 
 ## Work Experience
 
