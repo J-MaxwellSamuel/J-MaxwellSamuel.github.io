@@ -28,7 +28,7 @@
 - Optimized business processes, improving efficiency by [percentage or metric]
 - Created data-driven reports and dashboards to support executive decision-making
 - Identified process bottlenecks and implemented solutions that saved [time/cost]
-- 
+  
 ## Projects
 
 **[Project Name 1]**
