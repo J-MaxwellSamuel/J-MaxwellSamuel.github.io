@@ -17,18 +17,18 @@
 
 ## Work Experience
 
-**Strategy & Development Associate** | [Company Name]  
-*[Month Year] - [Month Year]*
+**Cavendish Farms (2 Years, 6 Months)**
+
+**Strategy & Development Associate** | *[Month Year] - [Month Year]*
 - Developed and implemented strategic initiatives that resulted in [specific outcome/metric]
 - Collaborated with cross-functional teams to drive [specific achievement]
 - Led analysis of [specific area] resulting in [measurable impact]
 
-**Business Process Analyst** | [Company Name]  
-*[Month Year] - [Month Year]*
+**Business Process Analyst** | *[Month Year] - [Month Year]*
 - Optimized business processes, improving efficiency by [percentage or metric]
 - Created data-driven reports and dashboards to support executive decision-making
 - Identified process bottlenecks and implemented solutions that saved [time/cost]
-
+- 
 ## Projects
 
 **[Project Name 1]**
