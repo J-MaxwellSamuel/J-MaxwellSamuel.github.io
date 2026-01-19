@@ -19,12 +19,17 @@ University of Prince Edward Island | *May 2025*
 
 **Cavendish Farms (2 Years, 6 Months)**
 
-**Strategy & Development Associate** | *[Month Year] - [Month Year]*
+**Operations Team Leader** | *May 2025 - October 2025*
 - Developed and implemented strategic initiatives that resulted in [specific outcome/metric]
 - Collaborated with cross-functional teams to drive [specific achievement]
 - Led analysis of [specific area] resulting in [measurable impact]
 
-**Business Process Analyst** | *[Month Year] - [Month Year]*
+**Strategy & Development Associate** | *September 2023 - May 2025*
+- Developed and implemented strategic initiatives that resulted in [specific outcome/metric]
+- Collaborated with cross-functional teams to drive [specific achievement]
+- Led analysis of [specific area] resulting in [measurable impact]
+
+**Business Process Analyst** | *May 2023 - August 2023*
 - Optimized business processes, improving efficiency by [percentage or metric]
 - Created data-driven reports and dashboards to support executive decision-making
 - Identified process bottlenecks and implemented solutions that saved [time/cost]
