@@ -34,17 +34,7 @@ University of Prince Edward Island | *May 2025*
 - Created data-driven reports and dashboards to support executive decision-making
 - Identified process bottlenecks and implemented solutions that saved [time/cost]
   
-## Projects
 
-**[Project Name 1]**
-- Brief description of the project and your role
-- Technologies/tools used
-- Key outcomes or results
-
-**[Project Name 2]**
-- Brief description of the project and your role
-- Technologies/tools used
-- Key outcomes or results
 
 
 
